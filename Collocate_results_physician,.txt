@@ -1,0 +1,14 @@
+Collocate	Rank	Freq(Scaled)	FreqLR	FreqL	FreqR	Range	Likelihood	Effect
+ought	1	1360	12	0	12	2	47.720	4.221
+a	2	48730	57	44	13	5	36.372	1.306
+surgeon	3	120	5	0	5	2	35.125	6.461
+conclave	4	280	5	3	2	1	26.681	5.238
+good	5	3550	11	9	2	3	22.810	2.712
+animam	6	20	2	1	1	1	17.643	7.724
+painted	6	20	2	0	2	1	17.643	7.724
+divine	8	390	4	2	2	1	17.031	4.439
+physick	9	1270	6	6	0	1	16.866	3.320
+care	10	790	5	5	0	2	16.731	3.742
+ordinary	11	420	4	0	4	1	16.464	4.332
+gaudily	12	30	2	1	1	1	15.960	7.139
+corpus	12	30	2	1	1	1	15.960	7.139
