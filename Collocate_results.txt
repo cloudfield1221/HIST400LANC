@@ -1,0 +1,7 @@
+Collocate	Rank	Freq(Scaled)	FreqLR	FreqL	FreqR	Range	Likelihood	Effect
+answer	1	270	3	3	0	1	23.264	7.007
+a	2	48730	16	16	0	4	19.841	1.926
+rod	3	70	2	2	0	1	19.294	8.370
+tom	4	220	2	1	1	1	14.700	6.718
+printed	5	290	2	0	2	1	13.603	6.319
+london	6	310	2	0	2	1	13.338	6.223

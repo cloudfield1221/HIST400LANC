@@ -1,0 +1,10 @@
+Collocate	Rank	Freq(Scaled)	FreqLR	FreqL	FreqR	Range	Likelihood	Effect
+scandalous	1	50	2	2	0	1	22.587	9.547
+late	2	560	3	3	0	1	21.786	6.647
+concerning	3	480	2	2	0	1	13.513	6.284
+sustenance	4	10	1	1	0	1	13.180	10.869
+failing	4	10	1	1	0	1	13.180	10.869
+therem	4	10	1	0	1	1	13.180	10.869
+skipped	4	10	1	0	1	1	13.180	10.869
+demoliſh	4	10	1	0	1	1	13.180	10.869
+momus	9	600	2	2	0	1	12.631	5.962

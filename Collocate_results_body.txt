@@ -1,0 +1,10 @@
+Collocate	Rank	Freq(Scaled)	FreqLR	FreqL	FreqR	Range	Likelihood	Effect
+the	1	123070	278	207	71	9	128.391	1.062
+every	2	2310	22	21	1	7	57.018	3.138
+of	3	83180	154	106	48	8	39.147	0.775
+soul	4	320	7	5	2	2	28.943	4.338
+gueſſed	5	30	3	0	3	1	21.532	6.530
+whole	6	1370	10	9	1	4	21.229	2.754
+powers	7	120	4	4	0	1	19.815	4.946
+consisting	8	40	3	2	1	1	19.748	6.115
+man	9	3700	15	6	9	3	17.718	1.906

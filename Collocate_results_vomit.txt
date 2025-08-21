@@ -1,0 +1,5 @@
+Collocate	Rank	Freq(Scaled)	FreqLR	FreqL	FreqR	Range	Likelihood	Effect
+a	1	48730	24	21	3	3	31.595	1.997
+by	2	14700	11	8	3	3	21.573	2.600
+given	3	1050	4	0	4	1	19.763	4.948
+ing	4	1930	4	0	4	2	15.100	4.070

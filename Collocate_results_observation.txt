@@ -1,0 +1,16 @@
+Collocate	Rank	Freq(Scaled)	FreqLR	FreqL	FreqR	Range	Likelihood	Effect
+speaks	1	90	2	0	2	1	19.126	8.312
+opibion	2	10	1	1	0	1	12.642	10.482
+introductory	2	10	1	1	0	1	12.642	10.482
+loudeſt	2	10	1	1	0	1	12.642	10.482
+stinguishies	2	10	1	1	0	1	12.642	10.482
+assistances	2	10	1	1	0	1	12.642	10.482
+diffeded	2	10	1	1	0	1	12.642	10.482
+founding	2	10	1	1	0	1	12.642	10.482
+eavn	2	10	1	1	0	1	12.642	10.482
+phys	2	10	1	1	0	1	12.642	10.482
+pidge	2	10	1	0	1	1	12.642	10.482
+happier	2	10	1	0	1	1	12.642	10.482
+ranges	2	10	1	0	1	1	12.642	10.482
+wipithout	2	10	1	0	1	1	12.642	10.482
+infidze	2	10	1	0	1	1	12.642	10.482
